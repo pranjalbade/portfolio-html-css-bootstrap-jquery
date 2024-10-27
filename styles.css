@@ -1,0 +1,31 @@
+.top-header{
+    background-color: #FFFFFF; 
+}
+
+.header-item{
+    color: #374151;
+}
+
+#header-section{
+    height: 10vh;
+}
+
+#hero-section{
+    height: 90vh;
+    background-image: url("./Images/bg1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-outer-block{
+    background-color: #374151;
+}
+
+.contact-para{
+    color: #FFFFFF;
+}
+
+.logo{
+    color: #374151;
+}
